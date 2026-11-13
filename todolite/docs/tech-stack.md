@@ -1,0 +1,2 @@
+# Stack- Backend: Node.js 20 + Express- Datos: en memoria, con estructuras de datos de JavaScript (arreglos y 
+objetos). Sin base de datos.- Frontend: Angular (standalone components)- Sin TypeScript en el backend (JavaScript simple)- Pruebas backend: node:test (incluido en Node) + supertest- Pruebas frontend: el runner que trae Angular CLI (ng test)
